@@ -22,3 +22,13 @@ If you are struggling to login in using the CSE email, don't panic! This has hap
 This is the biggest obstacle that I faced while doing this lab and it took me over 15 - 20 minutes to figure out what to do. Ultimately, my TA suggested using our UCSD email and that's what worked out!
 
 ![image](Screen Shot 2022-09-30 at 12.48.10 PM.png)
+
+## **Step 3** 
+After you typed "Yes", you will now become the "client" while the computer that you connected to in the CSE basement will be called the server. Now you can run commands to test it out!
+
+Try out these commands: 
+*ls -lat
+*ls -a
+*cd
+*cd ~
+![image](Screen Shot 2022-09-30 at 1.02.33 PM.png)
