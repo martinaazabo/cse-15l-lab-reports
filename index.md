@@ -1,12 +1,12 @@
 # *Hello Everyone!*
 
 **Step 1**
-Your first step is to look up your course-specific account using the website [Link](https://sdacs.ucsd.edu/~icc/index.php). This will show you all your accounts that you will possibily have in your CSE courses. 
+Your first step is to look up your course-specific account using the website [lxink](https://sdacs.ucsd.edu/~icc/index.php). This will show you all your accounts that you will possibily have in your CSE courses. 
 
 ![image](Screen Shot 2022-09-30 at 12.28.47 PM.png)
 
 ## **Step 2.5**
-Make sure you know your password to your account! It is usually the one you use for your TritionLink but if you are having difficulty, then you can change your password with this link [Link](https://password.ucsd.edu/) and you will be prompted to follow the steps displayed or use this page to find out your course-specific account name. [Link](https://sdacs.ucsd.edu/~icc/index.php)
+Make sure you know your password to your account! It is usually the one you use for your TritionLink but if you are having difficulty, then you can change your password with this link [link](https://password.ucsd.edu/) and you will be prompted to follow the steps displayed or use this page to find out your course-specific account name. [link](https://sdacs.ucsd.edu/~icc/index.php)
 
 ![image](Screen Shot 2022-09-30 at 12.32.43 PM.png)
 ## **Step 2** 
