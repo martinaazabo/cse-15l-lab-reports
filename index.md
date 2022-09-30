@@ -27,8 +27,8 @@ This is the biggest obstacle that I faced while doing this lab and it took me ov
 After you typed "Yes", you will now become the "client" while the computer that you connected to in the CSE basement will be called the server. Now you can run commands to test it out!
 
 Try out these commands: 
-*ls -lat
-*ls -a
-*cd
-*cd ~
+* ls -lat
+* ls -a
+* cd
+* cd ~
 ![image](Screen Shot 2022-09-30 at 1.02.33 PM.png)
