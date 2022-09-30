@@ -1,6 +1,6 @@
 # *Hello Everyone!*
 
-**Step 1**
+## **Step 1**
 Your first step is to look up your course-specific account using the website [lxink](https://sdacs.ucsd.edu/~icc/index.php). This will show you all your accounts that you will possibily have in your CSE courses. 
 
 ![image](Screen Shot 2022-09-30 at 12.28.47 PM.png)
