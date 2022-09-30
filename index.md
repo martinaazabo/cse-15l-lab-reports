@@ -15,3 +15,10 @@ Make that you have VS code installed before. Open up your terminal in VS code us
 ![image](Screen Shot 2022-09-30 at 12.15.22 PM.png)
 
 **Step 3**
+If you are struggling to login in using the CSE email, don't panic! This has happened to me and plenty of other people so you're not alone! Try using your normal UCSD email and the password that you use for it! 
+
+![image](Screen Shot 2022-09-30 at 12.43.33 PM.png)
+
+This is the biggest obstacle that I faced while doing this lab and it took me over 15 - 20 minutes to figure out what to do. Ultimately, my TA suggested using our UCSD email and that's what worked out!
+
+![image](Screen Shot 2022-09-30 at 12.48.10 PM.png)
